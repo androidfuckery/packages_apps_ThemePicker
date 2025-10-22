@@ -15,13 +15,27 @@
   ~ limitations under the License.
   -->
 <resources>
-<!--TODO(b/257218629)-->
-    <color name="color_secondary_monochromatic">#FFFF00</color>
-    <color name="color_secondary_rainbow1">#FFB2B5</color>
-    <color name="color_secondary_rainbow2">#FFB868</color>
-    <color name="color_secondary_rainbow3">#E9C44A</color>
-    <color name="color_secondary_rainbow4">#BAF293</color>
-    <color name="color_secondary_rainbow5">#96CBFF</color>
-    <color name="color_secondary_rainbow6">#CBBFFF</color>
-    <color name="color_secondary_rainbow7">#F5ACFB</color>
+    <color name="color_primary_monochromatic">#e0e0e0</color>
+    <color name="color_secondary_monochromatic">#9e9e9e</color>
+
+    <color name="color_primary_blue">#8ab4f8</color>
+    <color name="color_secondary_blue">#1a73e8</color>
+
+    <color name="color_primary_green">#81c784</color>
+    <color name="color_secondary_green">#4caf50</color>
+
+    <color name="color_primary_magenta">#ba68c8</color>
+    <color name="color_secondary_magenta">#9c27b0</color>
+
+    <color name="color_primary_orange">#ffb74d</color>
+    <color name="color_secondary_orange">#ff9800</color>
+
+    <color name="color_primary_purple">#9575cd</color>
+    <color name="color_secondary_purple">#673ab7</color>
+
+    <color name="color_primary_red">#e57373</color>
+    <color name="color_secondary_red">#f44336</color>
+
+    <color name="color_primary_yellow">#ffd54f</color>
+    <color name="color_secondary_yellow">#ffc107</color>
 </resources>
