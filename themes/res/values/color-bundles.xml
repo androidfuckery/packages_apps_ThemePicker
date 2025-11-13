@@ -17,6 +17,8 @@
 <resources>
     <array name="color_bundles">
         <item>monochromatic</item>
+        <item>teal</item>
+        <!-- alphabetically sorted below -->
         <item>blue</item>
         <item>green</item>
         <item>magenta</item>

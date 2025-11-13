@@ -21,6 +21,12 @@
     <string name="color_style_monochromatic" translatable="false">MONOCHROMATIC</string>
     <string name="monochromatic_name">Monochromatic</string>
 
+    <string name="bundle_name_teal" translatable="false">@string/teal_name</string>
+    <string name="color_style_teal" translatable="false">RAINBOW</string>
+    <string name="teal_name">Teal</string>
+
+    <!-- alphabetically sorted below -->
+
     <string name="bundle_name_blue" translatable="false">@string/rainbow_color_name_blue</string>
     <string name="color_style_blue" translatable="false">RAINBOW</string>
     <string name="rainbow_color_name_blue">Blue</string>
